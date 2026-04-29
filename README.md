@@ -1,8 +1,7 @@
 ## Hi, I'm Brain
 
--Software Engineering Student at FET(Faculty of Engineering and Technology)<br>
--Aspiring AI/ML, Backend Engineer<br>
--Currently working on a Dynamic Pricing for a ride-sharing company Project
+-Software Engineering Student<br>
+-AI/ML Engineer, Backend developer<br>
 
 
 ## 🌐 Socials:
