@@ -1,7 +1,12 @@
 ## Hi, I'm Brain
 
--Software Engineering Student<br>
--AI/ML Engineer, Backend developer<br>
+I am a Software Engineering student with a strong focus on Artificial Intelligence and Machine Learning, passionate about building intelligent, data-driven systems that solve real-world problems.
+ 
+I have hands-on experience in Python, data analysis, and machine learning, working on end-to-end projects from data preprocessing to model deployment. Currently, I am developing a dynamic pricing system for a ride-sharing platform, applying predictive modeling, feature engineering, and system design principles.
+ 
+I am particularly interested in scalable AI systems, including predictive models, recommendation systems, and real-time intelligent applications. I enjoy combining machine learning with software engineering to build solutions that are both effective and production-ready.
+ 
+I am continuously learning and seeking opportunities to grow as an AI/ML Engineer while contributing to impactful, real-world solutions.
 
 
 ## 🌐 Socials:
